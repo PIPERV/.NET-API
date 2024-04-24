@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0IjscIrQqh0UfFe6Qxj7KfqH7nDJkf2yK7l2uMFIXro=",
+  "Source": "clinical-inventory",
+  "BasePath": "_content/clinical-inventory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
