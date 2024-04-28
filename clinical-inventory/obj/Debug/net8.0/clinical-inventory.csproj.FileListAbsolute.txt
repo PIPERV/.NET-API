@@ -5,7 +5,6 @@ C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\clinical-inventory.runtimeconfig.json
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\clinical-inventory.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\clinical-inventory.pdb
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -50,11 +49,14 @@ C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.Identity.Client.dll
@@ -86,6 +88,9 @@ C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\NuGet.ProjectModel.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\NuGet.Protocol.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -247,16 +252,6 @@ C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\SQLitePCLRaw.core.dll
-C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -277,3 +272,7 @@ C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\Documents\Practicas\NET\.NET-API\clinical-inventory\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll

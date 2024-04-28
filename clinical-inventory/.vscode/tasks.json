@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/.NET-API.sln",
+                "${workspaceFolder}/clinical-inventory.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/.NET-API.sln",
+                "${workspaceFolder}/clinical-inventory.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/.NET-API.sln"
+                "${workspaceFolder}/clinical-inventory.sln"
             ],
             "problemMatcher": "$msCompile"
         }

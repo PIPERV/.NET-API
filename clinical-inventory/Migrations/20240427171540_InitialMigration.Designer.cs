@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace clinical_inventory.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240424154022_InitialMigration")]
+    [Migration("20240427171540_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
